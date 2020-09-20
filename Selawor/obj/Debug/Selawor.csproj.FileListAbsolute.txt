@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\Selawor\Selawor\bin\Debug\Selawor.exe.config
+C:\Users\Пользователь\source\repos\Selawor\Selawor\bin\Debug\Selawor.exe
+C:\Users\Пользователь\source\repos\Selawor\Selawor\bin\Debug\Selawor.pdb
+C:\Users\Пользователь\source\repos\Selawor\Selawor\obj\Debug\Selawor.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Selawor\Selawor\obj\Debug\Selawor.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Selawor\Selawor\obj\Debug\Selawor.exe
+C:\Users\Пользователь\source\repos\Selawor\Selawor\obj\Debug\Selawor.pdb
+D:\Даник\2 курс\3 семестр\ООП\Лабы\2\Selawor\Selawor\bin\Debug\Selawor.exe.config
+D:\Даник\2 курс\3 семестр\ООП\Лабы\2\Selawor\Selawor\bin\Debug\Selawor.exe
+D:\Даник\2 курс\3 семестр\ООП\Лабы\2\Selawor\Selawor\bin\Debug\Selawor.pdb
+D:\Даник\2 курс\3 семестр\ООП\Лабы\2\Selawor\Selawor\obj\Debug\Selawor.csprojAssemblyReference.cache
+D:\Даник\2 курс\3 семестр\ООП\Лабы\2\Selawor\Selawor\obj\Debug\Selawor.csproj.CoreCompileInputs.cache
+D:\Даник\2 курс\3 семестр\ООП\Лабы\2\Selawor\Selawor\obj\Debug\Selawor.exe
+D:\Даник\2 курс\3 семестр\ООП\Лабы\2\Selawor\Selawor\obj\Debug\Selawor.pdb
